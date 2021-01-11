@@ -3,6 +3,6 @@
 Projeto desenvolvido para realização de calculo de Salário Líquido
 
 <p align ="center">
-<img src="/images/gifTela.gif">
+<img src="/images/tela.gif">
 </p>
 
